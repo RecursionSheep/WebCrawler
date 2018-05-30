@@ -1,5 +1,5 @@
-IPATH = -I"E:\Tsinghua\大一下\面向对象编程\crawler\curl-7.60.0-win32-mingw\include"
-LPATH = -L"E:\Tsinghua\大一下\面向对象编程\crawler\curl-7.60.0-win32-mingw\lib"
+IPATH = -I"E:\Tsinghua\澶т竴涓媆闈㈠悜瀵硅薄缂栫▼\crawler\curl-7.60.0-win32-mingw\include"
+LPATH = -L"E:\Tsinghua\澶т竴涓媆闈㈠悜瀵硅薄缂栫▼\crawler\curl-7.60.0-win32-mingw\lib"
 
 all: test
 
